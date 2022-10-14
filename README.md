@@ -1,16 +1,9 @@
-# staggered
+# flutter_staggered_gridview
 
-A new Flutter project.
+## UI Screenshot
 
-## Getting Started
+![](screenshots/Capture2.JPG)
 
-This project is a starting point for a Flutter application.
+## Packages
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter_staggered_grid_view: ^0.6.2 [Click Here](https://pub.dev/packages/flutter_staggered_grid_view)
